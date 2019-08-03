@@ -1,3 +1,4 @@
+//test
 if (!isServer) exitWith {};
 if (count hcArray == 0) exitWith {[petros,"hint","No Headless Client Detected"] remoteExec ["A3A_fnc_commsMP",theBoss]};
 _textX = "";
